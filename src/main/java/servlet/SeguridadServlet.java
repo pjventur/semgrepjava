@@ -28,10 +28,7 @@ public class SeguridadServlet extends HttpServlet {
     	String email = req.getParameter("email");
     	String password = req.getParameter("password");
     	
-    	System.out.print(email);
-    	System.out.println(password);
-    	System.out.print(email);
-    	System.out.println(password);
+    
     	
     }
 
